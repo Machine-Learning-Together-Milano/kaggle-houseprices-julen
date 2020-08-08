@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595072698027.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "217085211",
+    "id" : "1004AB43",
+    "lastKnownWriteTime" : 1595073788,
+    "last_content_update" : 1595073789007,
+    "path" : "~/R_Scripts/housePrices/storico/MainForSubmission.R",
+    "project_path" : "storico/MainForSubmission.R",
+    "properties" : {
+        "cursorPosition" : "111,2",
+        "scrollLine" : "97"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

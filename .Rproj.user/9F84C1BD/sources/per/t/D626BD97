@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595073492263.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4058791613",
+    "id" : "D626BD97",
+    "lastKnownWriteTime" : 1593539993,
+    "last_content_update" : 1593539993,
+    "path" : "~/R_Scripts/MachineLearningTogether/appliedPredictiveModeling/chapter6/LinearRegression.Rmd",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

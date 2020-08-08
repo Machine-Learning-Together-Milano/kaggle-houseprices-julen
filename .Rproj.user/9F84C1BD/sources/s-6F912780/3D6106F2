@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595072552151.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3D6106F2",
+    "lastKnownWriteTime" : 1595399757,
+    "last_content_update" : 1595399757264,
+    "path" : "~/R_Scripts/housePrices/newMain.R",
+    "project_path" : "newMain.R",
+    "properties" : {
+        "cursorPosition" : "382,12",
+        "scrollLine" : "373",
+        "source_window_id" : "",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

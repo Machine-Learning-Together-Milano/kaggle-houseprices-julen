@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595072613977.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "848725749",
+    "id" : "220954FC",
+    "lastKnownWriteTime" : 1593542060,
+    "last_content_update" : 1593542060,
+    "path" : "~/R_Scripts/MachineLearningTogether/appliedPredictiveModeling/chapter6/exercises.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "6"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
